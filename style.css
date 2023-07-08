@@ -1,0 +1,11 @@
+.container {
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar .nav-link {
+  color: #fff;
+}
